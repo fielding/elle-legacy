@@ -1,0 +1,6 @@
+* Organize Files/Folders to reflect the XCode project hierarchy
+* Implement EntityManager ( as much as I dislike the word manager)
+* Figure out a way to allow games to extend the “CoreSystems”
+* Implement unique configuration for each game via configuration file
+* “EntityFactory” or some way to load entities from a file (data driven)
+* Evaluate pointer usage; switch to shared or unique ptrs where possible
